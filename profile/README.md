@@ -10,11 +10,9 @@ This is the main website for the **Tuscarora** branch of Students for Life.
 
 ### Leadership
 
-1. **JB** - President
-2. **Henry** - Acting President
-3. **Mariano** - Vice President, LCPSSFLCA President
-4. **Elizabeth** - LCPSSFLCA Vice President
-5. **Weston** - Lead Programmer THSSFL
+1. **Henry** - President *Pro tem*
+2. **Elizabeth** - LCPSSFLCA Vice President
+3. **Weston** - Lead Programmer THSSFL
 
 ## What we do
 *[place mission statement here]*
